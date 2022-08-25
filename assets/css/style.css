@@ -137,7 +137,9 @@ p {
     max-width: 150px;
 }
 */
-.search-engine-optimization {
+/*.search-engine-optimization { */
+  .card {
+/* Commented out the different classed to create singl class called card*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -145,7 +147,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -163,11 +165,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
+*/
+.card img {
     max-height: 200px;
 }
-
+/*Updated class names to 'card' 
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -175,12 +177,12 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
+*/
+.card h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*Updated class names to 'card' 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -190,7 +192,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+*/
 .footer {
     padding: 30px;
     clear: both;
