@@ -8,13 +8,11 @@
 - This project taught me to use semantic elements over non-semantic and to "DRY" code.
 
 ## Usage
+https://jmruiz96.github.io/first_repo/
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
-
+![Screenshot-1](assets/images/Screen Shot 2022-08-25 at 5.17.27 PM.png)
+![Screenshot-2](assets/images/Screen Shot 2022-08-25 at 5.26.14 PM.png)
+![Screenshot-3](assets/images/Screen Shot 2022-08-25 at 5.26.43 PM.png)
 ## Credits
 
 https://nu.bootcampcontent.com/NU-Coding-Bootcamp/NU-VIRT-FSF-FT-08-2022-U-LOLC
