@@ -8,11 +8,13 @@
 - This project taught me to use semantic elements over non-semantic and to "DRY" code.
 
 ## Usage
-https://jmruiz96.github.io/first_repo/
+[Live Link](https://jmruiz96.github.io/first_repo/)
 
-![Screenshot-1](assets/images/Screen Shot 2022-08-25 at 5.17.27 PM.png)
-![Screenshot-2](assets/images/Screen Shot 2022-08-25 at 5.26.14 PM.png)
-![Screenshot-3](assets/images/Screen Shot 2022-08-25 at 5.26.43 PM.png)
+![Webpage Screenshot](./assets/images/Screen%20Shot%202022-08-25%20at%205.26.43%20PM.png)
+
+![Webpage Screenshot](./assets/images/Screen%20Shot%202022-08-25%20at%205.26.14%20PM.png)
+
+![Webpage Screenshot](./assets/images/Screen%20Shot%202022-08-25%20at%205.17.27%20PM.png)
 ## Credits
 
 https://nu.bootcampcontent.com/NU-Coding-Bootcamp/NU-VIRT-FSF-FT-08-2022-U-LOLC
